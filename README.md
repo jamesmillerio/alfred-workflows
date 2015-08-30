@@ -9,4 +9,4 @@ Does just what it says on the tin. You can either use a keyword of **"guid"** wh
 ###Bluetooth Toggle
 This one is fairly obvious. You can essentially use a keyword of **"bt"** or **Cmd+Shift+B** and it will toggle your bluetooth radio.
 
-**Note:** This workflow requires the use of the blueutil applicaiton, which can be [found here](http://www.frederikseiffert.de/blueutil/).
+**Note:** This workflow requires the use of the blueutil application, which can be [found here](http://www.frederikseiffert.de/blueutil/).
