@@ -12,4 +12,4 @@ This one is fairly obvious. You can essentially use a keyword of **"bt"** or **C
 **Note:** This workflow requires the use of the blueutil application, which can be [found here](http://www.frederikseiffert.de/blueutil/).
 
 ###IP Address workflow by [David Fergusion](http://dferg.us/ip-address-workflow/)
-This workflow was created by [David Ferguson](http://dferg.us/ip-address-workflow/) to look up your public and local IP. Super useful. Here's a [direct link](http://cloud.dferg.us/K9MA) to the workflow.
+This workflow was created by [David Ferguson](http://dferg.us/ip-address-workflow/) to look up your public and local IP. Super useful. Here's a [direct link](http://cloud.dferg.us/K9MA) to the workflow and his [post about it](http://dferg.us/ip-address-workflow/).
