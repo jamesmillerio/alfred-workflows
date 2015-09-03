@@ -1,5 +1,5 @@
 # alfred-workflows
-A collection of Alfred workflows I've created as well as others that I use.
+A collection of Alfred workflows I've created as well as some from people around the web.
 
 ###Generate Guid
 Does just what it says on the tin. You can either use a keyword of **"guid"** which will simply copy a new guid to your clipboard or you can hit the hotkey **Cmd+Shift+G** and it will copy it to your clipboard and insert it wherever your cursor currently is.
